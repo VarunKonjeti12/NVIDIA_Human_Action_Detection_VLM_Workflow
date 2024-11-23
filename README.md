@@ -41,3 +41,7 @@ Issue: Video not processing
    * Verify the video is not corrupt.
 Issue: NEVA API errors
    * Check your API token and endpoint validity.
+
+## 🌟 Acknowledgments
+* NVIDIA NEVA API for powering activity detection.
+* Gradio for the intuitive interface.
