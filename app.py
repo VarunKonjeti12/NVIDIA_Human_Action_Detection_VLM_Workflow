@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1W5yyBGnnLgYzThOLI48WNkpjHB9icMdi
 """
 
-pip install requests moviepy pillow gradio
+#pip install requests moviepy pillow gradio
 
 """Main Script for running the code"""
 
