@@ -21,3 +21,25 @@ This project compares action detection success rates between synthetic and real 
    ```bash
    git clone https://github.com/VarunKonjeti12/Action-Detection-NVIDIA-NEVA.git
    cd Action-Detection-NVIDIA-NEVA
+
+## 📝 Usage
+1. Upload two videos: one synthetic and one real.
+2. Specify the activity you want to detect (e.g., walking, jumping).
+3. Click Submit to view the success rates for both videos.
+
+##📋 Requirements
+Python 3.7+
+Libraries in requirements.txt:
+   requests
+   gradio
+   moviepy
+   Pillow
+
+## 🛠️ Troubleshooting
+Issue: Video not processing
+
+   Ensure the video format is supported (.mp4, .avi, .mov).
+   Verify the video is not corrupt.
+   Issue: NEVA API errors
+
+   Check your API token and endpoint validity.
