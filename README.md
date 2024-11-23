@@ -45,3 +45,6 @@ Issue: NEVA API errors
 ## 🌟 Acknowledgments
 * NVIDIA NEVA API for powering activity detection.
 * Gradio for the intuitive interface.
+
+## My API Key:
+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
