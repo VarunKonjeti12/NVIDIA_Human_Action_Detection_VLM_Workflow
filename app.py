@@ -168,7 +168,7 @@ ui = gr.Interface(
 )
 
 if __name__ == "__main__":
-    ui.launch()
+    ui.launch(share=True)
 
 
 
