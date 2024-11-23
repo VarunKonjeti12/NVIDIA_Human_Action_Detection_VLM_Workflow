@@ -19,7 +19,7 @@ This project compares action detection success rates between synthetic and real 
 
 1. Clone this repository:
    ```bash
-   git https://github.com/VarunKonjeti12/NVIDIA_Human_Action_Detection_VLM_Workflow.git 
+   git clone https://github.com/VarunKonjeti12/NVIDIA_Human_Action_Detection_VLM_Workflow.git 
    cd NVIDIA_Human_Action_Detection_VLM_Workflow 
 
 ## 📝 Usage
