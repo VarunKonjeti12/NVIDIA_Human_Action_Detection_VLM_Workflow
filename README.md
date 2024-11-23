@@ -27,19 +27,17 @@ This project compares action detection success rates between synthetic and real 
 2. Specify the activity you want to detect (e.g., walking, jumping).
 3. Click Submit to view the success rates for both videos.
 
-##📋 Requirements
+## 📋 Requirements
 Python 3.7+
 Libraries in requirements.txt:
-   requests
-   gradio
-   moviepy
-   Pillow
+   * requests
+   * gradio
+   * moviepy
+   * Pillow
 
 ## 🛠️ Troubleshooting
 Issue: Video not processing
-
-   Ensure the video format is supported (.mp4, .avi, .mov).
-   Verify the video is not corrupt.
-   Issue: NEVA API errors
-
-   Check your API token and endpoint validity.
+   * Ensure the video format is supported (.mp4, .avi, .mov).
+   * Verify the video is not corrupt.
+Issue: NEVA API errors
+   * Check your API token and endpoint validity.
