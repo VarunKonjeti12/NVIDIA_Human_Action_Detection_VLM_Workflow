@@ -49,5 +49,6 @@ Issue: NEVA API errors
 ## My API Key:
 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
 
-## Google Colab link:
+## Google Colab link: (Most preferred) 
+Go to the colab link and run the cells
 https://colab.research.google.com/drive/1W5yyBGnnLgYzThOLI48WNkpjHB9icMdi?usp=sharing
