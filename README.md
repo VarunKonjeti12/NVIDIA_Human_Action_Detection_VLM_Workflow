@@ -48,3 +48,6 @@ Issue: NEVA API errors
 
 ## My API Key:
 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
+
+## Google Colab link:
+https://colab.research.google.com/drive/1W5yyBGnnLgYzThOLI48WNkpjHB9icMdi?usp=sharing
